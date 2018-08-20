@@ -74,7 +74,6 @@
 			});
 			$('#sample').click(function() {
 				$('#chord-input').val(sample_chords);
-				$('#submit-button').click();
 			});
 			$('#clear').click(function() {
 				$('#chord-input').val('');
